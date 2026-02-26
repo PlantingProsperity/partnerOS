@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+firm_intelligence.db
+.smoke_runtime/
